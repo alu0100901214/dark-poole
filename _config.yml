@@ -2,7 +2,7 @@
 title: Dark Poole
 url: https://getpoole.com
 paginate: 1
-baseurl: ""
+baseurl: "/"
 permalink: pretty
 
 # Gems
